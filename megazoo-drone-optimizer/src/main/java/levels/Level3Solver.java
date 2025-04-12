@@ -1,17 +1,17 @@
 package main.java.levels;
 
-import main.java.core.algorithm.DeadzoneAvoidancePathPlanner;
-import main.java.core.algorithm.GreedyPathPlanner;
-import main.java.core.algorithm.RouteOptimizer;
-import main.java.core.algorithm.ScoreCalculator;
-import main.java.core.mock.MockDistanceCalculator;
-import main.java.core.models.AnimalEnclosure;
-import main.java.core.models.Deadzone;
-import main.java.core.models.Depot;
-import main.java.core.models.FoodStorage;
-import main.java.core.models.Location;
-import main.java.core.services.ZooMap;
-import main.java.core.utils.OutputFormatter;
+import core.algorithm.DeadzoneAvoidancePathPlanner;
+import core.algorithm.GreedyPathPlanner;
+import core.algorithm.RouteOptimizer;
+import core.algorithm.ScoreCalculator;
+import core.mock.MockDistanceCalculator;
+import core.models.AnimalEnclosure;
+import core.models.Deadzone;
+import core.models.Depot;
+import core.models.FoodStorage;
+import core.models.Location;
+import core.services.ZooMap;
+import core.utils.OutputFormatter;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,14 +1,14 @@
 package main.java.levels;
 
-import main.java.core.algorithm.ClusterPathPlanner;
-import main.java.core.algorithm.DeadzoneAvoidancePathPlanner;
-import main.java.core.mock.MockDistanceCalculator;
-import main.java.core.models.AnimalEnclosure;
-import main.java.core.models.Deadzone;
-import main.java.core.models.Depot;
-import main.java.core.models.FoodStorage;
-import main.java.core.models.Location;
-import main.java.core.services.ZooMap;
+import core.algorithm.ClusterPathPlanner;
+import core.algorithm.DeadzoneAvoidancePathPlanner;
+import core.mock.MockDistanceCalculator;
+import core.models.AnimalEnclosure;
+import core.models.Deadzone;
+import core.models.Depot;
+import core.models.FoodStorage;
+import core.models.Location;
+import core.services.ZooMap;
 
 import java.util.ArrayList;
 import java.util.Comparator;

@@ -1,8 +1,8 @@
-package main.java.core.algorithm;
+package core.algorithm;
 
 import main.java.core.mock.MockDistanceCalculator;
 import main.java.core.models.AnimalEnclosure;
-import main.java.core.models.Location;
+import core.models.Location;
 
 import java.util.List;
 

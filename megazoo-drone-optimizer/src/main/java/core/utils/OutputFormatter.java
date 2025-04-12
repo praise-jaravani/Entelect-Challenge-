@@ -1,6 +1,6 @@
 package main.java.core.utils;
 
-import main.java.core.models.Location;
+import core.models.Location;
 
 import java.util.List;
 import java.util.StringJoiner;

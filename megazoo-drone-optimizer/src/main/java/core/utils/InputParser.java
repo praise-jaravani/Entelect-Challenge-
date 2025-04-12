@@ -6,8 +6,6 @@
  */
 package core.utils;
 
-package core.utils;
-
 import core.models.*;
 import core.services.ZooMap;
 import java.io.BufferedReader;
